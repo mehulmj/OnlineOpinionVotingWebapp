@@ -1,8 +1,7 @@
 Step1: Extract the file (14_17bce1124_1153_1305_1323.zip)
 Step2: Move(cut & paste) all 5 folders(fashion, food, iwp voting project, lifestyle & voting)
-to C:\xampp\htdocs (*make sure all 5 files are NOT in the "14_17bce1124_1153_1305_1323" folder,
-all are in the location C:\xampp\htdocs
-       The location of all 5 folders must look like
+to C:\xampp\htdocs (*make sure all 5 files are in the location C:\xampp\htdocs)
+The location of all 5 folders must look like
 C:\xampp\htdocs\Voting
 C:\xampp\htdocs\lifestyle
 C:\xampp\htdocs\iwp voting project
