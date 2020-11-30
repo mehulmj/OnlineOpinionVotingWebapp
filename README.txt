@@ -19,4 +19,9 @@ Table 5 "sports_indoor" having columns id(A_I),Q1(varchar 100),Q2(varchar 100),Q
 Table 6 "votesignup" having columns id(A_I), name(tinytext), email(tinyint), contactno (int 10), password (tinytext)
 (* BE CAREFUL ABOUT THE CASE WHILE NAMING THE DATABASE,TABLE AND COLUMN*)
 Step7: Now everything is ready. Type http://localhost/Voting/home.html in the browser.
-DONE!!!!! 
+
+Step 8: Create an instance on aws
+Step 9: Download the required packages: git,httpd,php.
+Step 10: Clone the repository on the instance
+Step 11: Move the folder into the /var/www/html folder.
+Done!!!
